@@ -1,4 +1,11 @@
 ## ChainKart - A new way to Buy ,Sell and Trade Real World Assets.
+## Run locally
+```bash
+npm i
+```
+```bash
+npm run dev
+```
 ## Website
 Key Features:
 - User can add their RWA for sale.
@@ -12,5 +19,8 @@ Key Features:
 | Authentication| Marketplace|
 |---------------------|---------------------|
 | ![Authentication](https://github.com/JayDeep1710/ChainKart/assets/95349616/a150045a-7223-4089-baeb-245717bba79e)| ![Marketplace](https://github.com/JayDeep1710/ChainKart/assets/95349616/1c244eb3-c2a3-4907-b7ae-d2ee32cd0407) |
+
+
+
 
 
